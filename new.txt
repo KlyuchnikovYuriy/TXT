@@ -1,0 +1,5 @@
+   "lastname"   : "Klyuchnikov",
+   "firstname"  : "Yuriy",
+   "age"        : "41",
+   "animai"     : 1,
+   "salary"     : 125000
